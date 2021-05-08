@@ -3,7 +3,7 @@
 服务课题 -  专业科技资源及服务集成技术（2017YFB1400804）
 ----
 ## 架构
-![image](https://f.png)
+![image](https://raw.githubusercontent.com/Morphtin/cloud-tech-platform/main/pic/architecture.jpg)
 
 ----
 ## 技术特色
@@ -81,5 +81,5 @@ npm run dev
 ----
 ## 使用说明
 平台截图  
-![image](https://f.png)
+![image](https://raw.githubusercontent.com/Morphtin/cloud-tech-platform/main/pic/sshot.jpg)
 
